@@ -67,8 +67,8 @@ img{
 .maintext{
     font-size: 19;
     background-color: blanchedalmond;
-    padding: 0 400px 0 400px;
-    max-width: 800px;
+    padding: 0 20% 0 20%;
+    max-width: 60%;
 }
 
 .imageline{
