@@ -51,7 +51,8 @@ img{
 }
 
 .nav li{
-    padding: 5px 0;
+    list-style: none;
+    padding-left: 0;
 }
 
 .link{
