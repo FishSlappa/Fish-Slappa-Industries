@@ -87,3 +87,7 @@ img{
     max-width: fit-content;
     white-space: nowrap;
 }
+
+.iframe{
+    width: 50%;
+}
