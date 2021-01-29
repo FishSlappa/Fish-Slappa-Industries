@@ -81,4 +81,5 @@ img{
     padding: 2px;
     border-radius: 5px;
     font-size: 16;
+    max-width: fit-content;
 }
