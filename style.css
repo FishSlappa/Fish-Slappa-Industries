@@ -82,4 +82,5 @@ img{
     border-radius: 5px;
     font-size: 16;
     max-width: fit-content;
+    white-space: nowrap;
 }
