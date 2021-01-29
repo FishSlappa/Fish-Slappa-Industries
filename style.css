@@ -32,14 +32,12 @@ img{
 }
 
 .header a{
-    margin-right: 150px;
+    margin-right: 7%;
 }
 
 .nav{
     color:blanchedalmond;
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 .nav a{
